@@ -14,7 +14,8 @@ public class elementSearch{
 		num=sc.nextInt();
 		for(i=0;i<count;i++){
 			if(num == inputArray[i]){
-		  		System.out.println(num+" is present at index "+ i +"!");
+				int s=i+1;
+		  		System.out.println(num+" is present at index "+ s +"!");
 				break;
 			}
 		}
