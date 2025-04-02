@@ -1,0 +1,492 @@
+
+C:\Users\Student\Desktop\varsha>javac product.java
+
+C:\Users\Student\Desktop\varsha>java product
+Product Information:
+ Product_Code_Name
+ Product_Price
+101             Product_1               100.0
+102             Product_2               128.4
+103             Product_3               750.0
+
+Product 1 is of  the lowest price!:
+
+C:\Users\Student\Desktop\varsha>javac complex.java
+
+C:\Users\Student\Desktop\varsha>java complex
+Complex Numbers are:
+5+4i
+7+9i
+After Addition = 12+13i
+
+C:\Users\Student\Desktop\varsha>javac add_matrix.java
+
+C:\Users\Student\Desktop\varsha>java add_matrix
+Enter the number of rows
+4
+Enter the number columns
+4
+Enter the elements of matrix1
+0 0 0 1
+
+0 1 0 1
+
+0 1 1 1
+
+
+
+
+
+
+
+0 1 1 0
+
+Enter the elements of matrix2
+1 0 0 1
+
+1 1 0 1
+
+1 1 1 0
+
+1 1 1 1
+
+Sum of matrices:-
+1       0       0       2
+1       2       0       2
+1       2       2       1
+1       2       2       1
+
+C:\Users\Student\Desktop\varsha>javac symmetric.java
+
+C:\Users\Student\Desktop\varsha>java symmetric
+Enter the Number of rows of the Matrix
+4
+Enter the Number of Columns of the Matrix
+4
+Enter the Element at M(0,0)
+1
+Enter the Element at M(0,1)
+2
+Enter the Element at M(0,2)
+3
+Enter the Element at M(0,3)
+4
+Enter the Element at M(1,0)
+2
+Enter the Element at M(1,1)
+1
+Enter the Element at M(1,2)
+0
+Enter the Element at M(1,3)
+1
+Enter the Element at M(2,0)
+3
+Enter the Element at M(2,1)
+0
+Enter the Element at M(2,2)
+4
+Enter the Element at M(2,3)
+2
+Enter the Element at M(3,0)
+4
+Enter the Element at M(3,1)
+1
+Enter the Element at M(3,2)
+2
+Enter the Element at M(3,3)
+8
+Matrix is Symmetric
+
+
+
+
+C:\Users\Student\Desktop\varsha>javac cpu.java
+
+C:\Users\Student\Desktop\varsha>java cpu
+
+RAM info
+Memory=8 GB
+Manufacturer=Intel
+
+
+Processor info
+No. of cores = 8
+Manufacturer = Samsung
+
+
+
+
+
+C:\Users\Student\Desktop\varsha>javac sort_string.java
+
+C:\Users\Student\Desktop\varsha>java sort_string
+Enter number of strings you would like to enter:4
+Enter the Strings one by one:
+ziya
+miya
+amal
+ben
+The strings before sorting:
+ziya
+miya
+amal
+ben
+
+The strings after sorting:
+amal
+ben
+miya
+ziya
+
+
+
+
+C:\Users\Student\Desktop\varsha>javac elementSearch.java
+
+C:\Users\Student\Desktop\varsha>java elementSearch
+Enter the number of elements to be inserted:
+4
+Start to enter those4elements:
+2
+4
+6
+8
+Enter the element to be searched:
+4
+4 is present at index 2!
+
+
+
+
+
+C:\Users\Student\Desktop\varsha>javac Strings.java
+
+C:\Users\Student\Desktop\varsha>java Strings
+Original Text: Object Oriented Programming
+
+The given text is empty->false
+
+Length of the given text: 27
+
+To Upper Case: OBJECT ORIENTED PROGRAMMING
+
+To Lower Case: object oriented programming
+
+Substring: ct Oriented Programming
+
+Subsequence: Oriented
+
+Replace O with $: $bject $riented Programming
+
+
+
+
+
+
+
+C:\Users\Student\Desktop\varsha>javac Main.java
+
+C:\Users\Student\Desktop\varsha>java Main
+Enter count of employee list : 2
+Enter Number of employee : 101
+Enter Name of employee : Ali
+Enter Salary of employee : 45000
+Enter Number of employee : 102
+Enter Name of employee : Varsha
+Enter Salary of employee : 60000
+Enter the number of employee to be filtered out :
+102
+Employee Number : 102
+Employee Name : Varsha
+Employee Salary : 60000
+
+
+
+
+C:\Users\Student\Desktop\varsha>javac areaComputer.java
+
+C:\Users\Student\Desktop\varsha>java areaComputer
+****Area of different shapes using overloaded functions****
+
+___RECTANGLE___
+->Enter the length and breadth:
+12
+6
+->Area:72
+
+___SQUARE___
+->Enter the side:
+5
+->Area: 25
+
+___TRIANGLE___
+->Enter the base and height:
+6
+4
+->Area:12.0
+
+___CIRCLE___
+->Enter the radius:
+6
+->Area: 113.03999999999999
+
+
+
+
+
+
+C:\Users\Student\Desktop\varsha>javac Teacher.java
+
+C:\Users\Student\Desktop\varsha>java Teacher
+
+Enter the No. of Employees
+2
+
+Enter Employee id:
+1001
+
+Enter Employee Name:
+Tahnu
+
+Enter Salary:
+34000
+
+Enter Address:
+12B
+
+Enter Departmant:
+Sales
+
+Enter Subject:
+Accounting
+
+Enter Employee id:
+10003
+
+Enter Employee Name:
+Jiya
+
+Enter Salary:
+890000
+
+Enter Address:
+87Y
+
+Enter Departmant:
+Finance
+
+Enter Subject:
+Management
+
+******** Informations of all the Employees ***********
+Employee id: 1001
+Name: Tahnu
+Salary: 34000.0
+Address: 12B
+Department: Sales
+Subject:Accounting
+Employee id: 10003
+Name: Jiya
+Salary: 890000.0
+Address: 87Y
+Department: Finance
+Subject:Management
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+C:\Users\Student\Desktop\varsha>javac Teachers.java
+
+C:\Users\Student\Desktop\varsha>java Teachers
+Enter the number of teachers:
+2
+
+Enter details for teacher 1:
+Enter Name: Amy
+Enter Gender: Female
+Enter Address: DishtraNagar
+Enter Age: 34
+Enter Employee ID: 1001
+Enter Company Name: Zeekzks
+Enter Qualification: CA
+Enter Salary: 56000
+Enter Department: Accountings
+Enter Subject: Accounts
+Enter Teacher ID: 245
+
+Enter details for teacher 2:
+Enter Name: Ley
+Enter Gender: Male
+Enter Address: ArjeNagar
+Enter Age: 43
+Enter Employee ID: 1023
+Enter Company Name: Wipro
+Enter Qualification: MBA
+Enter Salary: 45000
+Enter Department: Sales
+Enter Subject: Business
+Enter Teacher ID: 256
+
+*****Information of All Teachers*****
+
+*****Teacher Information*****
+Employee ID: 1001
+Name: Amy
+Gender: Female
+Age: 34
+Address: DishtraNagar
+Department: Accountings
+Subject: Accounts
+Teacher ID: 245
+Company Name: Zeekzks
+Qualification: CA
+Salary: 56000.0
+
+*****Teacher Information*****
+Employee ID: 1023
+Name: Ley
+Gender: Male
+Age: 43
+Address: ArjeNagar
+Department: Sales
+Subject: Business
+Teacher ID: 256
+Company Name: Wipro
+Qualification: MBA
+Salary: 45000.0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+C:\Users\Student\Desktop\varsha>javac bookDetails.java
+
+C:\Users\Student\Desktop\varsha>java bookDetails
+
+Enter the number of Literature books:
+2
+
+Enter the Literature book details
+
+
+Book 1:
+Book Name: The Great Gatsby
+Publisher: Scribner
+
+Book 2:
+Book Name: To Kill a Mockingbird
+Publisher: Lippincott
+
+Enter the number of Fiction books:
+1
+
+Enter the Fiction book details
+
+
+Book 1:
+Book Name: Harry Potter and the Sorcerer's Stone
+Publisher: Boomsbury
+
+************ Information of all Literature books **************
+
+Book 1:
+Publisher: Scribner
+Book: The Great Gatsby
+
+Book 2:
+Publisher: Lippincott
+Book: To Kill a Mockingbird
+
+************ Information of all Fiction books **************
+
+Book 1:
+Publisher: Boomsbury
+Book: Harry Potter and the Sorcerer's Stone
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+C:\Users\Student\Desktop\varsha>javac Result.java
+
+C:\Users\Student\Desktop\varsha>java Result
+Enter the number of students:
+2
+
+Enter sports details for student 1
+Sport: Football
+Sport rating out of 10: 9
+
+Enter academic details for student 1
+Academic grade: A
+Overall percentage: 85
+
+Enter sports details for student 2
+Sport: Basketball
+Sport rating out of 10: 8
+
+Enter academic details for student 2
+Academic grade: S
+Overall percentage: 98
+
+Displaying Student Details:
+
+Sports Details of Student
+Sport: Football
+Rating: 9
+
+Academic Details of Student
+Academic Grade: A
+Overall Percentage: 85.0
+
+Sports Details of Student
+Sport: Basketball
+Rating: 8
+
+Academic Details of Student
+Academic Grade: S
+Overall Percentage: 98.0
